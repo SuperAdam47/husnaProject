@@ -1,4 +1,4 @@
-## Django Blog project
+## Django Blog project -
 
 
 #### Project features:
@@ -18,7 +18,7 @@
 * Redefined default User model (main.models.py)
 * MailHog, Jaeger, RabbitMQ integrations
 * Multi-stage build for prod versions
-* PostgreSql Backup
+* PostgreSql Backup 
 
 ### How to use:
 
